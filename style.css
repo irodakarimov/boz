@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+header {
+    width: 1440px;
+    height: 750px;
+    background-image: url(image5.png);
+}
+
+button {
+    Width: 143px;
+    Height: 82px;
+    margin-Left: 1191px;
+    background-color: black;
+    color: #fff;
+    font-size: 15px;
+}
+
+button:hover {
+    Width: 143px;
+    Height: 82px;
+    background-color: orange;
+    color: black;
+    font-size: 15px;
+
+
+}
+
+nav {
+    width: 1440px;
+    height: 82px;
+    background-color: black;
+    display: flex;
+}
+
+button i {
+    color: orange;
+}
+
+button i:hover {
+    color: #fff;
+}
+
+img {
+    padding: 20px 0 20px 50px;
+}
+
+.div3 ul {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    margin-top: 20px;
+}
+
+.div3 {
+    background-color: gray;
+    height: 40px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+
+.div3 ul li {
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.div5 {
+    width: 200px;
+    height: 73px;
+    background-color: orange;
+    color: black;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.div6 {
+    width: 200px;
+    height: 73px;
+    background-color: black;
+    color: #fff;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.div4 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 300px;
+}
+
+.div7 {
+    width: 600px;
+    height: 202px;
+    border-radius: 10px;
+    background: #F1A90054;
+    color: #fff;
+    font-size: 40px;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin: 50px auto;
+}
+
+footer {
+    width: 1440px;
+    height: 82px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div9 i {
+    color: #fff;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
